@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi 👋, I'm Swaraj Anjane
 
-<!--
-**swaraj-anjane/swaraj-anjane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer focused on building scalable web applications using the MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (2023 - 2027)
+- 💻 MERN Stack Developer
+- 🌱 Currently working on E-Commerce Platform & Momentry
+- 🔥 Interested in Full Stack Development
+- 📍 Indore, Madhya Pradesh
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Redux Toolkit
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MongoDB
+
+### Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- Render
+- Vercel
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 MERN E-Commerce Platform
+
+Full Stack E-Commerce application with Authentication, Product Management, Cart System and Admin Dashboard.
+
+### 🎓 Student Data Management System
+
+Student management application with JWT Authentication and CRUD operations.
+
+### 🌐 Portfolio Website
+
+Responsive portfolio website showcasing projects and skills.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/swaraj-anjane
+
+Portfolio:
+https://portfolio-website-kqf3.vercel.app/
+
+GitHub:
+https://github.com/swaraj-anjane
+
+Email:
+swarajanjane0@gmail.com
+
+---
+
+⭐ Always learning and building new projects.
